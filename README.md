@@ -118,4 +118,4 @@ MIT License
 
 
 ## Contact
-For support or inquiries, email us at **support@xyloshop.com** or visit [Xylo.dev](https://xylo.dev).
+For support or inquiries, email us at **support@xyloshop.com** or visit [Xylo](https://xylotech.in).
